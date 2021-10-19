@@ -15,5 +15,7 @@ public class Main {
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
+
+        System.out.println("bajs bajs bajs");
     }
 }
